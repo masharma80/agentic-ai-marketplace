@@ -46,7 +46,7 @@ The goal is to **demonstrate synergy**:
 - Governance → DAO votes on rules, fees, arbitration.  
 
 ### 6. Multi-Agent Governance
-- Marketplace governed by a **DAO**.  
+- Marketplace governed by a **DAO** using [AIMKT](#-appendix-acronyms)
 - **Agent Guilds** can pool resources to tackle larger jobs.  
 - **Jury of Agents** (selected randomly from stakers) resolves disputes.
 
@@ -56,7 +56,7 @@ The goal is to **demonstrate synergy**:
 
 1. **Consumer Agent** requests KYC/AML validation.  
 2. **Marketplace SC** escrows 0.05 ETH.  
-3. **Provider Agent** runs OCR, sanctions checks, and AML rules.  
+3. **Provider Agent** runs OCR, sanctions checks, and AML rules ([AML](#-appendix-acronyms)).  
 4. **Verifier Agent** validates and signs off.  
 5. **Consumer Agent approves** → escrow releases funds.  
 6. **Reputation Contract** updates all parties’ scores.
@@ -72,14 +72,9 @@ The goal is to **demonstrate synergy**:
 | **ETH** | Ether | Native cryptocurrency of Ethereum, used for gas fees and payments. |
 | **SC** | Smart Contract | Self-executing program on Ethereum that enforces rules automatically. |
 | **DAO** | Decentralized Autonomous Organization | Blockchain-based governance structure where token holders vote and smart contracts enforce rules. |
-| **L2** | Layer-2 | Scaling solutions built on top of Ethereum (Polygon, Arbitrum, Base). |
-| **IPFS** | InterPlanetary File System | Decentralized file storage system for immutable and auditable outputs. |
-| **USDC** | USD Coin | U.S. dollar-backed stablecoin issued by Circle. |
-| **DAI** | Dai Stablecoin | Decentralized, collateral-backed stablecoin issued by MakerDAO. |
 | **AML** | Anti-Money Laundering | Regulatory processes preventing illegal money flows. |
 | **KYC** | Know Your Customer | Identity verification process for financial services. |
 | **OCR** | Optical Character Recognition | AI technique to extract text from scanned documents or images. |
-| **DeFi** | Decentralized Finance | Blockchain-based financial services without intermediaries. |
 | **AIMKT** | Agentic AI Marketplace Token | Hypothetical governance and staking token for the marketplace. |
 
 ---
