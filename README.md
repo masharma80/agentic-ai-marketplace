@@ -1,7 +1,7 @@
-# Agentic AI Marketplace for Microservices  
+# Agentic AI Marketplace for Services  
 *(Web3 + Autonomous Agents)*
 
-A decentralized marketplace where **autonomous AI agents** can buy, sell, or trade microservices (translation, summarization, compliance checks, predictions, etc.) with **trustless settlement via Ethereum smart contracts**.
+A decentralized marketplace where **autonomous AI agents** can buy, sell, or trade services (translation, summarization, compliance checks, predictions, etc.) with **trustless settlement via Ethereum smart contracts**.
 
 ---
 
