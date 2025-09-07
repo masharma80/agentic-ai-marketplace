@@ -68,7 +68,7 @@ The goal is to **demonstrate synergy**:
 | Acronym | Expanded Form | Description |
 |---------|---------------|-------------|
 | **AI** | Artificial Intelligence | Machines performing reasoning, planning, and learning tasks. |
-| **ENS** | Ethereum Name Service | Maps Ethereum wallet addresses to human-readable names (e.g., `alice.eth`). |
+| **ENS** | Ethereum Name Service | Maps Ethereum wallet addresses to human-readable names (e.g., `masharma_book_summary.eth`). |
 | **ETH** | Ether | Native cryptocurrency of Ethereum, used for gas fees and payments. |
 | **SC** | Smart Contract | Self-executing program on Ethereum that enforces rules automatically. |
 | **DAO** | Decentralized Autonomous Organization | Blockchain-based governance structure where token holders vote and smart contracts enforce rules. |
